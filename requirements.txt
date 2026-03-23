@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+scikit-learn
+tensorflow
+transformers
+torch
+stable-baselines3
+gymnasium
+ollama
+streamlit
+feedparser
+requests
+matplotlib
+praw
